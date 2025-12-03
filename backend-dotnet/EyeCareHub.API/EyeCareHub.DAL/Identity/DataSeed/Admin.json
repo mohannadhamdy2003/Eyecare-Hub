@@ -1,0 +1,13 @@
+[
+  {
+    "Email": "mkemomostafa452@gmail.com",
+    "UserName": "admin",
+    "DisplyName": "AdminUser",
+    "Address": {
+      "Country": "Egypt",
+      "City": "Cairo",
+      "Street": "Admin Headquarters"
+    },
+    "EmailConfirmed": true
+  }
+]

@@ -1,0 +1,262 @@
+﻿[
+  {
+    "Email": "dr.ahmed1@example.com",
+    "UserName": "ahmed1",
+    "DisplyName": "Ahmed Saeed",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Cairo",
+      "Street": "Clinic 1 St"
+    },
+    "Doctor": {
+      "Name": "Dr. Ahmed Saeed",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Cairo Health Center",
+      "specialty": "Ophthalmologist",
+      "bio": "Specialist in vision correction.",
+      "YearsOfExperience": 12,
+      "ConsultationFee": 300.00,
+      "CVFileUrl": "cvs/ahmed1.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Sunday-Wednesday",
+        "StartTime": "09:00",
+        "EndTime": "16:00"
+      }
+    }
+  },
+  {
+    "Email": "dr.sara2@example.com",
+    "UserName": "sara2",
+    "DisplyName": "Sara Mostafa",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Alexandria",
+      "Street": "Sea View Clinic"
+    },
+    "Doctor": {
+      "Name": "Dr. Sara Mostafa",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Alex Eye Clinic",
+      "specialty": "Retina Specialist",
+      "bio": "Focused on retinal treatments.",
+      "YearsOfExperience": 8,
+      "ConsultationFee": 250.00,
+      "CVFileUrl": "cvs/sara2.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Monday-Thursday",
+        "StartTime": "10:00",
+        "EndTime": "17:00"
+      }
+    }
+  },
+  {
+    "Email": "dr.khaled3@example.com",
+    "UserName": "khaled3",
+    "DisplyName": "Khaled Gamal",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Giza",
+      "Street": "Clinic Street"
+    },
+    "Doctor": {
+      "Name": "Dr. Khaled Gamal",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Giza Eye Hospital",
+      "specialty": "Pediatric Ophthalmology",
+      "bio": "Expert in kids’ eye care.",
+      "YearsOfExperience": 10,
+      "ConsultationFee": 280.00,
+      "CVFileUrl": "cvs/khaled3.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Sunday-Tuesday",
+        "StartTime": "08:30",
+        "EndTime": "14:30"
+      }
+    }
+  },
+  {
+    "Email": "dr.laila4@example.com",
+    "UserName": "laila4",
+    "DisplyName": "Laila Fathy",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Mansoura",
+      "Street": "Clinic 4 Road"
+    },
+    "Doctor": {
+      "Name": "Dr. Laila Fathy",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Laila Vision Center",
+      "specialty": "LASIK Specialist",
+      "bio": "Specialist in LASIK and refractive surgery.",
+      "YearsOfExperience": 9,
+      "ConsultationFee": 350.00,
+      "CVFileUrl": "cvs/laila4.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Saturday-Monday",
+        "StartTime": "11:00",
+        "EndTime": "18:00"
+      }
+    }
+  },
+  {
+    "Email": "dr.mohamed5@example.com",
+    "UserName": "mohamed5",
+    "DisplyName": "Mohamed Nasser",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Aswan",
+      "Street": "Sunshine Clinic"
+    },
+    "Doctor": {
+      "Name": "Dr. Mohamed Nasser",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Aswan Eye Hospital",
+      "specialty": "Cataract Surgeon",
+      "bio": "Performs advanced cataract surgeries.",
+      "YearsOfExperience": 15,
+      "ConsultationFee": 400.00,
+      "CVFileUrl": "cvs/mohamed5.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Tuesday-Friday",
+        "StartTime": "08:00",
+        "EndTime": "15:00"
+      }
+    }
+  },
+  {
+    "Email": "dr.huda6@example.com",
+    "UserName": "huda6",
+    "DisplyName": "Huda Mahmoud",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Tanta",
+      "Street": "Huda Center"
+    },
+    "Doctor": {
+      "Name": "Dr. Huda Mahmoud",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Tanta Vision Clinic",
+      "specialty": "Corneal Specialist",
+      "bio": "Focused on corneal diseases and transplants.",
+      "YearsOfExperience": 7,
+      "ConsultationFee": 320.00,
+      "CVFileUrl": "cvs/huda6.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Sunday-Wednesday",
+        "StartTime": "09:30",
+        "EndTime": "16:30"
+      }
+    }
+  },
+  {
+    "Email": "dr.alaa7@example.com",
+    "UserName": "alaa7",
+    "DisplyName": "Alaa Kamel",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Zagazig",
+      "Street": "Eye Street"
+    },
+    "Doctor": {
+      "Name": "Dr. Alaa Kamel",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Zagazig Eye Care",
+      "specialty": "Oculoplastic",
+      "bio": "Deals with eyelid and tear duct surgeries.",
+      "YearsOfExperience": 11,
+      "ConsultationFee": 360.00,
+      "CVFileUrl": "cvs/alaa7.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Monday-Thursday",
+        "StartTime": "10:30",
+        "EndTime": "17:30"
+      }
+    }
+  },
+  {
+    "Email": "dr.menna8@example.com",
+    "UserName": "menna8",
+    "DisplyName": "Menna ElSayed",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Benha",
+      "Street": "Clinic Lane"
+    },
+    "Doctor": {
+      "Name": "Dr. Menna ElSayed",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Benha Medical Center",
+      "specialty": "Neuro-Ophthalmology",
+      "bio": "Expert in optic nerve diseases.",
+      "YearsOfExperience": 6,
+      "ConsultationFee": 290.00,
+      "CVFileUrl": "cvs/menna8.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Saturday-Tuesday",
+        "StartTime": "09:00",
+        "EndTime": "14:00"
+      }
+    }
+  },
+  {
+    "Email": "dr.omar9@example.com",
+    "UserName": "omar9",
+    "DisplyName": "Omar Fathy",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Fayoum",
+      "Street": "Health Road"
+    },
+    "Doctor": {
+      "Name": "Dr. Omar Fathy",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Fayoum Eye Center",
+      "specialty": "General Ophthalmology",
+      "bio": "Handles common vision problems.",
+      "YearsOfExperience": 9,
+      "ConsultationFee": 270.00,
+      "CVFileUrl": "cvs/omar9.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Sunday-Tuesday",
+        "StartTime": "08:00",
+        "EndTime": "15:00"
+      }
+    }
+  },
+  {
+    "Email": "dr.rania10@example.com",
+    "UserName": "rania10",
+    "DisplyName": "Rania Said",
+    "EmailConfirmed": true,
+    "Address": {
+      "Country": "Egypt",
+      "City": "Ismailia",
+      "Street": "Clinic Zone"
+    },
+    "Doctor": {
+      "Name": "Dr. Rania Said",
+      "PictureUrl": "images/DoctorInfo/doc.jpeg",
+      "ClinicAddress": "Ismailia Eye Hospital",
+      "specialty": "Glaucoma Specialist",
+      "bio": "Focused on glaucoma diagnosis and treatment.",
+      "YearsOfExperience": 13,
+      "ConsultationFee": 380.00,
+      "CVFileUrl": "cvs/rania10.pdf",
+      "DoctorWorkSchedule": {
+        "DaysAvailable": "Monday-Thursday",
+        "StartTime": "10:00",
+        "EndTime": "16:00"
+      }
+    }
+  }
+]
