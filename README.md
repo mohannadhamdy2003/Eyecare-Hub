@@ -35,7 +35,7 @@ EyeCare Hub helps users upload fundus (eye) images to detect common eye diseases
 * **React Router** – Client-side navigation
 * **Axios** – API communication
 * **CSS / TailwindCSS** 
-* **Vite ** – Frontend build & development tool
+* **Vite** – Frontend build & development tool
 * **Node.js + npm** – Dependency management
 
 
