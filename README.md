@@ -66,34 +66,6 @@ EyeCare-Hub/
 
 ---
 
-## ⚙️ Installation
-
-### **Backend (.NET)**
-
-```
-cd backend-dotnet
-dotnet restore
-dotnet run
-```
-
-### **Frontend (React)**
-
-```
-cd frontend-react
-npm install
-npm start
-```
-
-### **AI Service (FastAPI)**
-
-```
-cd ai-fastapi
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
----
-
 ## 📡 API Flow
 
 1. User uploads image → React
